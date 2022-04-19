@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PranavTheDev
 - 👀 I’m interested in Coding websites , apps
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C
 
 <!---
 PranavTheDev/PranavTheDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
